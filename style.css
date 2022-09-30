@@ -1,0 +1,18 @@
+body {
+  background-color: #aaffff;
+}
+ul {
+  list-style-type: url("abc.png");
+}
+.red {
+  color: red;
+}
+.pink {
+  color: pink;
+}
+ul.intro-list {
+  color: purple;
+}
+a:visited {
+  color: darkorange;
+}
